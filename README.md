@@ -1,5 +1,7 @@
 # Deep Learning for Pneumonia Localization in Chest X-Ray
 
+> **Official Report Title**: Dedicated Object Detection vs. Saliency-Based Heatmaps for Pneumonia Localization in Chest X-Rays
+
 A comparative study between dedicated Object Detection (YOLOv26) and Heatmap-based (ResNet-50 + Grad-CAM) architectures for localizing pulmonary opacities.
 
 ## 📌 Project Overview
